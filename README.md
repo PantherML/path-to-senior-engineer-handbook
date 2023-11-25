@@ -1,6 +1,6 @@
 # Path to Senior Engineer Handbook
 
-## Table of contents
+## Table of Contents
 
 - [Newsletters](#newsletters)
 - [Books](#books)
@@ -12,7 +12,7 @@
 
 ## Newsletters
 
-### General software engineer growth
+### General
 
 - [High Growth Engineer](https://careercutler.substack.com/)
 - [The Developing Dev](https://open.substack.com/pub/ryanlpeterman)
@@ -27,9 +27,6 @@
 - [Saiyan Growth Letter](https://open.substack.com/pub/tigerabrodi)
 - [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
 - [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted?utm_source=mentions)
-
-### Staying up-to-date
-
 - [The Pragmatic Engineer](https://open.substack.com/pub/pragmaticengineer)
 - [TLDR](https://tldr.tech/)
 - [Pointer.io](https://www.pointer.io/)
@@ -163,14 +160,14 @@
 - [Lenny’s Podcast](https://www.youtube.com/@LennysPodcast)
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
 
-### Frontend/CSS tips and tricks
+### Frontend/CSS Tips and Tricks
 
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 - [Matt Pocock (Typescript)](https://www.youtube.com/@mattpocockuk)
 - [Sam Selikoff](https://www.youtube.com/@samselikoff)
 
-### Productivity, side income, and personal growth
+### Productivity, Side Income, & Personal Growth
 
 - [Ali Abdaal](https://www.youtube.com/@aliabdaal)
 - [Jeff Su](https://www.youtube.com/@JeffSu)
