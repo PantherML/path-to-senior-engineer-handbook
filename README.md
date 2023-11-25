@@ -1,6 +1,4 @@
-# Path to Senior Engineer handbook
-
-This repo has all the resources you need to reach Senior Software Engineer!
+# Path to Senior Engineer Handbook
 
 ## Table of contents
 
@@ -41,7 +39,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Wes Kao's Newsletter](https://open.substack.com/pub/weskao)
 - [Alex Brogan frameworks](https://www.alexbrogan.com/)
 
-### System design
+### System Design
 
 - [System Design Newsletter](https://open.substack.com/pub/systemdesignone)
 - [ByteByteGo Newsletter](https://open.substack.com/pub/bytebytego)
@@ -55,7 +53,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Engineering Leadership](https://open.substack.com/pub/gregorojstersek)
 - [Addy Osmani](https://addyosmani.com/blog/) ([RSS Link](https://addyosmani.com/feed.xml))
 
-### Web-dev specific
+### Web-Dev
 
 - [TLDR Web Dev](https://tldr.tech/webdev)
 - [Frontend Focus](https://frontendfocus.substack.com/)
@@ -68,7 +66,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## Books
 
-### Communication, writing, relationships
+### Communication, Writing, & Relationships
 
 - [Crucial conversations](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes-ebook/dp/B093Y3N433/ref=sr_1_1?crid=1WOHAFMU4WUAO&keywords=crucial+conversations&qid=1697901535&sprefix=crucial+conversations%2Caps%2C93&sr=8-1)
 - [Smart Brevity](https://www.amazon.com/Smart-Brevity-Power-Saying-More-ebook/dp/B09TGMK8G6/ref=sr_1_3?crid=23836X03OZJL9&keywords=smart+brevity&qid=1697901520&sprefix=smart+brevit%2Caps%2C91&sr=8-3)
@@ -91,7 +89,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 - [Storyworthy](https://www.amazon.com/Storyworthy-Engage-Persuade-through-Storytelling-ebook/dp/B07CV2PFYJ/ref=sr_1_1?crid=2XCJKTZGE4UYV&keywords=storyworthy&qid=1697902396&sprefix=storyworthy%2Caps%2C92&sr=8-1)
 
-### Career growth and promotions
+### Career Growth and Promotions
 
 - [Omar Halabieh 90-day career blueprint](https://www.omarhalabieh.com/90-day-career-blueprint/)
 - [Get Promoted](https://www.amazon.com/Get-Promoted-Really-Missing-Holding-ebook/dp/B09WGJVR4Z/ref=sr_1_3?crid=2HAKFNOON3GT4&keywords=get+promoted&qid=1697908495&sprefix=get+promoted%2Caps%2C103&sr=8-3)
@@ -117,7 +115,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The Advice Trap](https://www.amazon.com/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B/ref=sr_1_4?crid=1PUAOVOEBGT86&keywords=the+advice+habit&qid=1697901727&sprefix=the+advice+habit%2Caps%2C93&sr=8-4)
 - [The making of a manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/ref=sr_1_1?crid=3KIOKYA1B91GZ&keywords=making+of+a+manager&qid=1697901746&sprefix=making+of+a+manage%2Caps%2C88&sr=8-1)
 
-### Persuasion & influence
+### Persuasion & Influence
 
 - [Influence: The psychology of persuasion](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion-ebook/dp/B08HZ57WYN/ref=sr_1_1?crid=12HK7T02Q8RD6&keywords=influence+the+psychology+of+persuasion&qid=1697901772&sprefix=influence+%2Caps%2C97&sr=8-1)
 - [Yes - 50 scientifically proven ways to be persuasive](https://www.amazon.com/Yes-Scientifically-Proven-Ways-Persuasive-ebook/dp/B001F51X64/ref=sr_1_1?crid=22JQGQ9F3U0ZL&keywords=yes+50+scientifically+proven+ways+to+be+persuasive&qid=1697901786&sprefix=yes+50+sc%2Caps%2C88&sr=8-1)
@@ -127,12 +125,12 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [The productivity project](https://www.amazon.com/Productivity-Project-Accomplishing-Managing-Attention-ebook/dp/B00Z3G239W/ref=sr_1_1?crid=2WORUZIB0JGFQ&keywords=the+productivity+project&qid=1697901797&sprefix=the+productivity+project%2Caps%2C103&sr=8-1)
 - [Make time](https://www.amazon.com/Make-Time-Focus-Matters-Every-ebook/dp/B078QSCM3V/ref=sr_1_1?crid=2RGDOUDIW5F8M&keywords=make+time&qid=1697902186&sprefix=make+time%2Caps%2C89&sr=8-1)
 
-### User experience
+### User Experience
 
 - [Don’t make me think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?crid=1CFB0PZE00IWE&keywords=dont+make+me+think&qid=1697901807&sprefix=dont+make+me+think%2Caps%2C90&sr=8-1)
 - [Refactoring UI](https://www.refactoringui.com/)
 
-### Thinking smarter
+### Thinking Smarter
 
 - [Clear thinking](https://www.amazon.com/Clear-Thinking-Turning-Ordinary-Extraordinary-ebook/dp/B0BRMPJ8DR/ref=sr_1_1?crid=2T7Q68SES0TQG&keywords=clear+thinking&qid=1697902176&sprefix=clear+thinking%2Caps%2C92&sr=8-1)
 - [Thinking fast and slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1?crid=3I2AE3OFIFFWN&keywords=thinking+fast+and+slow%E2%80%9D&qid=1697902209&sprefix=thinking+f%2Caps%2C100&sr=8-1)
